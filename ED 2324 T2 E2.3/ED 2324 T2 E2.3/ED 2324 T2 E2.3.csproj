@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F70952F-68F3-48CB-A22C-C5D2D5FF5E26}</ProjectGuid>
+    <ProjectGuid>{996BA886-F3DA-4A8D-AEC9-87C43BAE0614}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ejercicio10</RootNamespace>
-    <AssemblyName>Ejercicio10</AssemblyName>
+    <RootNamespace>ED_2324_T2_E2._3</RootNamespace>
+    <AssemblyName>ED 2324 T2 E2.3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
